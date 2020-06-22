@@ -1,0 +1,2 @@
+# privacy
+Default Privacy Policy
