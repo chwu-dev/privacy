@@ -1,5 +1,12 @@
 # Privacy Policy
 
+## Table of contents
+* [General info](#general-info)
+* [E-Mail Contact](#e-mail)
+
+
+## General Information
+
 This privacy policy applies to all information used while using our apps for iPhone and any other devices and platforms.
 Information/ Data we collect
 
@@ -14,7 +21,7 @@ We also do not operate any server or database infrastructure to store any data.
 Our Apps store some of your data in Apple’s iCloud service, for example to enable a sync feature between multiple devices signed into your Apple ID etc. None of that information is sent to us nor do we have access to it. Please refer to Apple Privacy policy to get more information in iCloud.
 
 
-### E-Mail Contact
+## E-Mail Contact
 
 In case you contact us via E-Mail with a question or support request, we obviously have access to your e-mail address. This name/ e-mail address is not used for anything else than replying to your message. 
 
