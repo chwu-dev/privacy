@@ -51,7 +51,8 @@ We may provide paid products and/or in-app purchases within our Apps. In that ca
 We reserve the right to change this Privacy Policy at any time, in part or in whole. We will notify you of any changes by posting the new Privacy Policy on this page.
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page and are indicated by the revised date.
 
-
+```
 > *First Released 22 June 2020
 
 > *Revised: 22 June 2020
+```
