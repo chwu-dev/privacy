@@ -10,10 +10,11 @@
 
 ### General Information
 
-This privacy policy applies to all information used while using our apps for iPhone and any other devices and platforms.
-Information/ Data we collect
+This privacy policy applies to information entered/ stored while using our apps for iPhone and any other devices and platforms.
 
-All data you enter while using our Apps are only stored locally on the device, except for iCloud features which you might use in certain apps.
+**Information/ Data we collect**
+
+All data you enter while using our Apps are only stored locally on the device, except for iCloud features which you might enable in certain apps.
 
 Our apps do not transmit any of the data entered, which includes your personal information (including Name, email address, phone number, etc.), to us - nor do we have any access to the information you enter on your device. In fact our apps do not contact us at all.
 We also do not operate any server or database infrastructure to store any data.
@@ -21,7 +22,7 @@ We also do not operate any server or database infrastructure to store any data.
 
 **iCloud**
 
-Our Apps store some of your data in Apple’s iCloud service, for example to enable a sync feature between multiple devices signed into your Apple ID etc. None of that information is sent to us nor do we have access to it. Please refer to Apple Privacy policy to get more information in iCloud.
+Our Apps store some of your data in Apple’s iCloud service, for example to enable a sync feature between multiple devices signed into your Apple ID etc. None of that information is sent to us nor do we have access to it. Please refer to Apple Privacy policy to get more information on iCloud.
 
 
 ### E-Mail Contact
@@ -54,5 +55,5 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 ```
 > *First Released 22 June 2020
 
-> *Revised: 22 June 2020
+> *Revised: 27 October 2020
 ```
